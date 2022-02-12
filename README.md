@@ -9,5 +9,5 @@ Eu criei esta planilha com o objetivo de ajudar a organizar e visualizar como me
 O grande diferencial que tentei criar nesta planilha é a possibilidade de ver em tempo real com gráficos atualizados automaticamente como os gastos estão se compartam em relação a renda. Vamos ver abaixo:
 
  <p align="center">
-  <img width="400" height="200" src= "https://user-images.githubusercontent.com/62472486/151853036-bee2406a-327a-4227-8f57-f5ae070aedaa.png">
+  <img width="750" height="350"src= "https://user-images.githubusercontent.com/62472486/153731494-d4b496a8-d128-4a6a-bd6b-46069a898695.png">
   </p>

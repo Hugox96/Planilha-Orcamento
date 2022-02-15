@@ -22,4 +22,8 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
   <p align="center">
   <img width="350" height="300" src= "https://user-images.githubusercontent.com/62472486/154118629-41a22831-a5b7-43ac-92a4-4a7249380775.png">
   </p>
+     
+   Vamos um gif abaixo onde podemos ver os gráficos sendo atualidos automaticamente ao colocarmos dados novos na planilha:
+     
+     ![Alt Text](https://user-images.githubusercontent.com/62472486/151851572-e5d1ee70-3189-4812-bfa9-2e84cc3f9210.gif)
     

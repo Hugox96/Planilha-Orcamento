@@ -20,7 +20,7 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
  A parte gráfico é interessante para visualizar como os gastos se comportam em relação a receita mensal e assim perceber o quanto nós estamos gastando em cada mês. 
 
   <p align="center">
-  <img width="350" height="300" src= "https://user-images.githubusercontent.com/62472486/154118629-41a22831-a5b7-43ac-92a4-4a7249380775.png">
+  <img width="250" height="230" src= "https://user-images.githubusercontent.com/62472486/154125884-3d815e25-5435-46a0-a45e-96b7bf0e30ec.png">
   </p>
      
    Vamos um gif abaixo onde podemos ver os gráficos sendo atualidos automaticamente ao colocarmos dados novos na planilha:

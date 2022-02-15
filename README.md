@@ -23,12 +23,12 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
   <img width="250" height="230" src= "https://user-images.githubusercontent.com/62472486/154125884-3d815e25-5435-46a0-a45e-96b7bf0e30ec.png">
   </p>
      
-    Abaixo um git onde podemos ver os gráficos sendo atualidos automaticamente ao colocarmos dados novos na planilha:
-     <p align="center">
-     [Alt Text](https://user-images.githubusercontent.com/62472486/154126381-5552e0d5-d247-4c53-81ef-031e4370eef9.gif)
-     </p>
+  Abaixo um git onde podemos ver os gráficos sendo atualidos automaticamente ao colocarmos dados novos na planilha:
+      <p align="center">
+       ![Alt Text](https://user-images.githubusercontent.com/62472486/154126381-5552e0d5-d247-4c53-81ef-031e4370eef9.gif)
+      </p>
      
    Para finalizar a demostração de gastos, vamos ver como preencher a tabela de despesas obrigatórias:
       <p align="center">
         ![Alt Text](https://user-images.githubusercontent.com/62472486/154124353-db80591d-bba1-44a4-8e52-7592a68f32d4.gif)
-     </p>
+      </p>

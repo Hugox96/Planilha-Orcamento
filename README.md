@@ -29,5 +29,6 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
      </p>
      
    Para finalizar a aba de gastos, vamos ver como preencher a tabela de despesas obrigatórias:
+      <p align="center">
         ![Alt Text](https://user-images.githubusercontent.com/62472486/154124353-db80591d-bba1-44a4-8e52-7592a68f32d4.gif)
-    
+     </p>

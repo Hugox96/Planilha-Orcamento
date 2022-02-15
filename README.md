@@ -19,7 +19,7 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
     
  A parte gráfico é interessante para visualizar como os gastos se comportam em relação a receita mensal e assim perceber o quanto nós estamos gastando em cada mês. 
 
-    <p align="center">
-  <img width="750" height="300"src= "https://user-images.githubusercontent.com/62472486/153731494-d4b496a8-d128-4a6a-bd6b-46069a898695.png">
+  <p align="center">
+  <img width="350" height="300" src= "https://user-images.githubusercontent.com/62472486/154118629-41a22831-a5b7-43ac-92a4-4a7249380775.png">
   </p>
     

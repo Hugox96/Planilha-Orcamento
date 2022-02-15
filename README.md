@@ -24,8 +24,9 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
   </p>
      
    Vamos um gif abaixo onde podemos ver os gráficos sendo atualidos automaticamente ao colocarmos dados novos na planilha:
+     <p align="center">
      ![Alt Text](https://user-images.githubusercontent.com/62472486/154126381-5552e0d5-d247-4c53-81ef-031e4370eef9.gif)
-      
+     </p>
      
    Para finalizar a aba de gastos, vamos ver como preencher a tabela de despesas obrigatórias:
         ![Alt Text](https://user-images.githubusercontent.com/62472486/154124353-db80591d-bba1-44a4-8e52-7592a68f32d4.gif)

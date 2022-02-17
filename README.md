@@ -39,7 +39,7 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
   Vamos ver uma imagem abaixo:
      
  <p align="center">
- <img width="650" height="400" src="https://user-images.githubusercontent.com/62472486/154554065-e01191ee-3e37-41c1-a3f9-cb3ff445ce08.png">
+ <img width="850" height="200" src="https://user-images.githubusercontent.com/62472486/154554065-e01191ee-3e37-41c1-a3f9-cb3ff445ce08.png">
  </p>
      
   Na imagem ver podemos as funcionalidades:

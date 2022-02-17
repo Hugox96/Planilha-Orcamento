@@ -57,8 +57,9 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
  <img width="480" height="270" src="https://user-images.githubusercontent.com/62472486/154557946-2b47f3c1-52c4-4838-bf7f-631337b6f0e5.png   ">
  </p>
  
- Com essa tabela é possível visualizar a diferença dos gastos entre os meses, vamos pegar como exemplo os meses de abril e maio. Em abril o custo total foi de <strong> R$:2.232 </strong> e em maio o custo foi <strong> R$: 1.597 </strong> uma redução de <strong> 28% </strong> em relação à abril.     
-          
+ Com essa tabela é possível visualizar a diferença dos gastos entre os meses, vamos pegar como exemplo os meses de abril e maio. Em abril o custo total foi de <strong> R$:2.232 </strong> e em maio o custo foi <strong> R$: 1.597 </strong> uma redução de <strong> 28% </strong> em relação à abril.
+      
+ Para finalizar, vou mostrar um video abaixo como dashboard funciona ao modificar as informações na planilha. Como exemplo, vou modificar o <strong> mês mais caro de abril para dezembro. </strong>           
          
       
       

@@ -51,5 +51,7 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
  Podemos ver pelo gráfico percentual que as maiores despesas de 2021 foram as obrigatórias com <strong> 70% </strong> e as de alimentação com <strong> 28% </strong>.
  Essa analise faz do dasboard uma aba muito útil para entender o orçamento.
       
- Outra tabela importante é a tabela de inflação e deflação em relações aos meses, vamos vê-la:     
+ Outra tabela importante é a tabela de inflação pessoal, vamos vê-la:  
+      
+      
      

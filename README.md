@@ -39,7 +39,7 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
   Vamos ver uma imagem abaixo:
      
  <p align="center">
- <img width="850" height="200" src="https://user-images.githubusercontent.com/62472486/154554065-e01191ee-3e37-41c1-a3f9-cb3ff445ce08.png">
+ <img width="800" height="200" src="https://user-images.githubusercontent.com/62472486/154556753-7685589e-f86e-47ae-a119-a2fee40cdb3f.png">
  </p>
      
   Na imagem ver podemos as funcionalidades:
@@ -48,5 +48,8 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
     <li> Um menu que direciona para os meses
     <li> O mês com menos gasto e o mês com maior gasto 
 
-     
+ Podemos ver pelo gráfico percentual que as maiores despesas de 2021 foram as obrigatórias com <strong> 70% </strong> e as de alimentação com <strong> 28% </strong>.
+ Essa analise faz do dasboard uma aba muito útil para entender o orçamento.
+      
+ Outra tabela importante é a tabela de inflação e deflação em relações aos meses, vamos vê-la:     
      

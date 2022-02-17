@@ -52,6 +52,14 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
  Essa analise faz do dasboard uma aba muito útil para entender o orçamento.
       
  Outra tabela importante é a tabela de inflação pessoal, vamos vê-la:  
+    
+ <p align="center">
+ <img width="480" height="270" src="https://user-images.githubusercontent.com/62472486/154557946-2b47f3c1-52c4-4838-bf7f-631337b6f0e5.png   ">
+ </p>
+ 
+ Com essa tabela é possível visualizar a diferença dos gastos entre os meses, vamos pegar como exemplo os meses de abril e maio. Em abril o custo total foi de <strong> R$:2232 </strong> e em maio o custo foi <strong> R$: 1597 </strong>, uma redução de 28% em relação à abril.     
+          
+         
       
       
      

@@ -35,7 +35,18 @@ O grande diferencial que tentei criar nesta planilha é a possibilidade de ver e
 
    # 2º Dashboard do orçamento
      
-    Com o Dashboard de orçamento é possível analisar as informações de receitas e despesas ao longo do ano e perceber para qual categoria o dinheiro está sendo mais utilizando.
-    Vamos ver uma imagem abaixo:
+ Com o Dashboard de orçamento é possível analisar as informações de receitas e despesas ao longo do ano e perceber para qual categoria o dinheiro está sendo mais utilizando.
+  Vamos ver uma imagem abaixo:
+     
+ <p align="center">
+ <img width="650" height="400" src="https://user-images.githubusercontent.com/62472486/154554065-e01191ee-3e37-41c1-a3f9-cb3ff445ce08.png">
+ </p>
+     
+  Na imagem ver podemos as funcionalidades:
+    <li> Um gráfico com os valores totais de cada despesa
+    <li> Um gráfico em pizza com o percentual de cada despesa
+    <li> Um menu que direciona para os meses
+    <li> O mês com menos gasto e o mês com maior gasto 
+
      
      
